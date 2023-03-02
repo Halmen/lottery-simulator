@@ -157,6 +157,7 @@
 
   .speed-bar {
     width: 241px;
+    cursor: pointer;
   }
   .reset-button {
     width: calc(100% - 30px);
