@@ -3,7 +3,7 @@
   <div class="wrapper">
     <h1>Lottery simulator</h1>
     <div class="stats-container">
-      <p>Number of tickets</p>
+      <p>Number of tickets:</p>
       <p>{{ counter }}</p>
       <p class="years-spent" :class="{ 'game-over': amIFilthyRich }">
         Years spent:
